@@ -28,23 +28,8 @@ To compile and run the game, use the following commands in your terminal:
 
 gcc -o tictactoe part1.c
 ./tictactoe
-
-**Example**
-
---Tic Tac Toe--
-
-   |   |   
- X | 1 | 2 
-___|___|___
-   |   |   
- 3 | O | 5 
-___|___|___
-   |   |   
- 6 | 7 | 8 
-   |   |   
-
-Please Enter a Number For Player Number: 1
-
+ 
 **License**
+
 This project is open-source and available under the MIT License.
 
